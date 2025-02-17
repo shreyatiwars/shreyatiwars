@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyatiwars
-- 👀 I’m interested in exploring tech such as Data Sciences and Cloud.
-- 🌱 I’m currently learning Full Stack Web Development and Cloud Computing.
+- 👀 I’m interested in exploring all tech - development, cloud, data science, AI/ML.
+- 🌱 I’m currently working on Full Stack Web Development and Cloud Computing.
 - 📫 How to reach me - https://www.linkedin.com/in/shreyatiwari2001/
 
 <!---
